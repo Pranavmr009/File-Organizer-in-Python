@@ -13,3 +13,7 @@ This is a simple file organizer tool I made in python for my specific personal r
 2. Move to the project folder
 3. Run "pip3 install requirements.txt"
 4. Run "python3 main.py"
+
+## Demo video
+https://github.com/user-attachments/assets/6e40bb4c-7798-45d1-b460-18ef0dcf34d9
+
